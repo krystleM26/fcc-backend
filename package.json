@@ -12,5 +12,5 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Krystle Mitchell",
-	"description": "A boilerplate for learning how to use npm and package.json files",
+	"description": "A boilerplate for learning how to use npm and package.json files"
 }
