@@ -14,5 +14,6 @@
 	"author": "Krystle Mitchell",
 	"description": "A boilerplate for learning how to use npm and package.json files",
 	"keywords": [ "api", "freecodecamp", "backend" ],
-	"license": "Flurry Systems"
+	"license": "Flurry Systems",
+	"version": "1.2.0"
 }
